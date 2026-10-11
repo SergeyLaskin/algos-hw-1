@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sellin/algos/algos-cw-1/after_refactoring_1'
+relocations:     []
+...
